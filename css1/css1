@@ -1,0 +1,23 @@
+body {
+ background-color: #F7C3B8;
+}
+
+h1 {
+  text-align: center;
+  color:green;
+}
+
+img {
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:50%;
+}
+
+li{
+font-size: 26px;
+}
+
+p{
+font-size:23px;
+}
