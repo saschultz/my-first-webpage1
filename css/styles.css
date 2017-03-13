@@ -1,0 +1,23 @@
+body {
+  background-color: #D0E4EE;
+  font-size:36px;
+}
+h1 {
+  text-align: center;
+  color: #795548;
+  font-family: sans-serif;
+}
+h2{
+  text-align: center;
+  color: #60C2F7;
+
+}
+ul{
+  font-family:cursive;
+  font-size:36px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
